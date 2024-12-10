@@ -1,5 +1,3 @@
-# Code written by : Aryan Verma
-# Video Explanation Link : https://youtu.be/GVdH9BI_PLQ
 
 import cv2
 import numpy as np
